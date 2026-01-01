@@ -185,24 +185,10 @@ const App = () => {
 
                 {/* Back */}
                 <div className="side side-back">
-                  <div className="marathi-container">
-                    <h2 className="main-marathi">{activeCard.marathi}</h2>
+                  <div className="phonetics-top">
+                    <span className="top-let">{activeCard.firstLetter}</span>
                     <button
-                      className="speaker-btn main-speaker"
-                      onClick={(e) => {
-                        e.stopPropagation();
-                        speak(activeCard.marathi);
-                      }}
-                    >
-                      🔊
-                    </button>
-                  </div>
-                  <p className="translit">{activeCard.transliteration}</p>
-
-                  <div className="phonetics">
-                    <span className="first-let">{activeCard.firstLetter}</span>
-                    <button
-                      className="speaker-btn"
+                      className="speaker-btn small-speaker"
                       onClick={(e) => {
                         e.stopPropagation();
                         speak(activeCard.firstLetter);
@@ -210,6 +196,22 @@ const App = () => {
                     >
                       🔊
                     </button>
+                  </div>
+
+                  <div className="marathi-center-wrap">
+                    <div className="marathi-container">
+                      <h2 className="main-marathi">{activeCard.marathi}</h2>
+                      <button
+                        className="speaker-btn main-speaker"
+                        onClick={(e) => {
+                          e.stopPropagation();
+                          speak(activeCard.marathi);
+                        }}
+                      >
+                        🔊
+                      </button>
+                    </div>
+                    <p className="translit">{activeCard.transliteration}</p>
                   </div>
                 </div>
               </div>

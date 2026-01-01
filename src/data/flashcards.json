@@ -1,5 +1,16 @@
 [
     {
+        "id": 0,
+        "marathi": "ईशान",
+        "transliteration": "Ishaan",
+        "english": "Ishaan",
+        "category": "Family",
+        "firstLetter": "ई",
+        "imagePrompt": "A simple 2D black and white line drawing of an Indian mother smiling, minimalist style for kids, clear outlines, no shading",
+        "imagePath": "/images/me.png",
+        "frozen": true
+    },
+    {
         "id": 1,
         "marathi": "आई",
         "transliteration": "Aai",
@@ -72,7 +83,7 @@
         "english": "Grandfather",
         "category": "Family",
         "firstLetter": "आ",
-        "imagePrompt": "A simple 2D black and white line drawing of an Indian grandfather, minimalist style",
+        "imagePrompt": "A simple 2D black and white line drawing (no grey) of an Marathi Indian grandfather, minimalist style",
         "imagePath": "/images/family_grandfather.png",
         "frozen": false
     },
