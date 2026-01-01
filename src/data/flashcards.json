@@ -776,7 +776,7 @@
         "english": "Sea/Ocean",
         "category": "Nature",
         "firstLetter": "स",
-        "imagePrompt": "A simple 2D line drawing of sea waves, minimalist",
+        "imagePrompt": "A simple 2D line drawing of ocean with beach, minimalist",
         "imagePath": "/images/nature_sea.png",
         "frozen": false
     },
