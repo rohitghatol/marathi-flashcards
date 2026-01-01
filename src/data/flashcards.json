@@ -677,7 +677,7 @@
         "english": "Moon",
         "category": "Nature",
         "firstLetter": "च",
-        "imagePrompt": "A simple 2D line drawing of the moon, minimalist",
+        "imagePrompt": "A simple 2D line drawing of the moon (not full moon), minimalist",
         "imagePath": "/images/nature_moon.png",
         "frozen": false
     },
