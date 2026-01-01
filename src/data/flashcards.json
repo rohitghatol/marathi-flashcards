@@ -831,7 +831,7 @@
         "english": "Red",
         "category": "Colors",
         "firstLetter": "ल",
-        "imagePrompt": "A simple 2D line drawing of a paint splash (labeled Red)",
+        "imagePrompt": "full image filled with solid color red",
         "imagePath": "/images/colors_red.png",
         "frozen": false
     },
@@ -842,7 +842,7 @@
         "english": "Blue",
         "category": "Colors",
         "firstLetter": "न",
-        "imagePrompt": "A simple 2D line drawing of a paint splash (labeled Blue)",
+        "imagePrompt": "full image filled with solid color blue",
         "imagePath": "/images/colors_blue.png",
         "frozen": false
     },
@@ -853,7 +853,7 @@
         "english": "Yellow",
         "category": "Colors",
         "firstLetter": "प",
-        "imagePrompt": "A simple 2D line drawing of a paint splash (labeled Yellow)",
+        "imagePrompt": "full image filled with solid color yellow",
         "imagePath": "/images/colors_yellow.png",
         "frozen": false
     },
@@ -864,7 +864,7 @@
         "english": "Green",
         "category": "Colors",
         "firstLetter": "ह",
-        "imagePrompt": "A simple 2D line drawing of a paint splash (labeled Green)",
+        "imagePrompt": "full image filled with solid color green",
         "imagePath": "/images/colors_green.png",
         "frozen": false
     },
@@ -875,7 +875,7 @@
         "english": "Black",
         "category": "Colors",
         "firstLetter": "क",
-        "imagePrompt": "A simple 2D line drawing of a paint splash (labeled Black)",
+        "imagePrompt": "full image filled with solid color black",
         "imagePath": "/images/colors_black.png",
         "frozen": false
     },
@@ -886,7 +886,7 @@
         "english": "White",
         "category": "Colors",
         "firstLetter": "प",
-        "imagePrompt": "A simple 2D line drawing of a paint splash (labeled White)",
+        "imagePrompt": "full image filled with solid color white",
         "imagePath": "/images/colors_white.png",
         "frozen": false
     },
@@ -897,7 +897,7 @@
         "english": "Orange",
         "category": "Colors",
         "firstLetter": "न",
-        "imagePrompt": "A simple 2D line drawing of a paint splash (labeled Orange)",
+        "imagePrompt": "full image filled with solid color orange",
         "imagePath": "/images/colors_orange.png",
         "frozen": false
     },
@@ -908,7 +908,7 @@
         "english": "Pink",
         "category": "Colors",
         "firstLetter": "ग",
-        "imagePrompt": "A simple 2D line drawing of a paint splash (labeled Pink)",
+        "imagePrompt": "full image filled with solid color pink",
         "imagePath": "/images/colors_pink.png",
         "frozen": false
     },
@@ -919,7 +919,7 @@
         "english": "Purple",
         "category": "Colors",
         "firstLetter": "ज",
-        "imagePrompt": "A simple 2D line drawing of a paint splash (labeled Purple)",
+        "imagePrompt": "full image filled with solid color purple",
         "imagePath": "/images/colors_purple.png",
         "frozen": false
     },
@@ -930,7 +930,7 @@
         "english": "Brown",
         "category": "Colors",
         "firstLetter": "त",
-        "imagePrompt": "A simple 2D line drawing of a paint splash (labeled Brown)",
+        "imagePrompt": "full image filled with solid color brown",
         "imagePath": "/images/colors_brown.png",
         "frozen": false
     },
@@ -941,7 +941,7 @@
         "english": "Grey",
         "category": "Colors",
         "firstLetter": "र",
-        "imagePrompt": "A simple 2D line drawing of a paint splash (labeled Grey)",
+        "imagePrompt": "full image filled with solid color grey",
         "imagePath": "/images/colors_grey.png",
         "frozen": false
     },
@@ -952,7 +952,7 @@
         "english": "Gold",
         "category": "Colors",
         "firstLetter": "स",
-        "imagePrompt": "A simple 2D line drawing of a paint splash (labeled Gold)",
+        "imagePrompt": "full image filled with solid color gold",
         "imagePath": "/images/colors_gold.png",
         "frozen": false
     },
