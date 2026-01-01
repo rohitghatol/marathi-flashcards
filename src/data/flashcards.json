@@ -16,7 +16,7 @@
         "transliteration": "Baba",
         "english": "Father",
         "category": "Family",
-        "firstLetter": "बा",
+        "firstLetter": "ब",
         "imagePrompt": "A simple 2D black and white line drawing of an Indian father smiling, minimalist style for kids, clear outlines, no shading",
         "imagePath": "/images/family_father.png",
         "frozen": true
@@ -27,7 +27,7 @@
         "transliteration": "Mulga",
         "english": "Son",
         "category": "Family",
-        "firstLetter": "मु",
+        "firstLetter": "म",
         "imagePrompt": "A simple 2D black and white line drawing of an Indian boy, minimalist style",
         "imagePath": "/images/family_son.png",
         "frozen": true
@@ -38,7 +38,7 @@
         "transliteration": "Mulgi",
         "english": "Daughter",
         "category": "Family",
-        "firstLetter": "मु",
+        "firstLetter": "म",
         "imagePrompt": "A simple 2D black and white line drawing of an Indian girl, minimalist style",
         "imagePath": "/images/family_daughter.png",
         "frozen": true
@@ -49,7 +49,7 @@
         "transliteration": "Dada",
         "english": "Elder Brother",
         "category": "Family",
-        "firstLetter": "दा",
+        "firstLetter": "द",
         "imagePrompt": "A simple 2D black and white line drawing of an elder brother, minimalist style",
         "imagePath": "/images/family_elder_brother.png",
         "frozen": false
@@ -60,7 +60,7 @@
         "transliteration": "Taai",
         "english": "Elder Sister",
         "category": "Family",
-        "firstLetter": "ता",
+        "firstLetter": "त",
         "imagePrompt": "A simple 2D black and white line drawing of an elder sister, minimalist style",
         "imagePath": "/images/family_elder_sister.png",
         "frozen": true
@@ -93,7 +93,7 @@
         "transliteration": "Kaka",
         "english": "Uncle (Father's Brother)",
         "category": "Family",
-        "firstLetter": "का",
+        "firstLetter": "क",
         "imagePrompt": "A simple 2D line drawing showing a Man standing with his Brother (Father and Uncle relationship), minimalist",
         "imagePath": "/images/family_uncle_p.png",
         "frozen": true
@@ -104,7 +104,7 @@
         "transliteration": "Kaku",
         "english": "Aunt (Father's Brother's Wife)",
         "category": "Family",
-        "firstLetter": "का",
+        "firstLetter": "क",
         "imagePrompt": "A simple 2D line drawing of a smiling Indian woman (Kaku), minimalist",
         "imagePath": "/images/family_aunt_p.png",
         "frozen": true
@@ -126,7 +126,7 @@
         "transliteration": "Mama",
         "english": "Uncle (Mother's Brother)",
         "category": "Family",
-        "firstLetter": "मा",
+        "firstLetter": "म",
         "imagePrompt": "A simple 2D line drawing showing a Woman standing with her Brother (Mother and Mama relationship), minimalist",
         "imagePath": "/images/family_uncle_m.png",
         "frozen": true
@@ -137,7 +137,7 @@
         "transliteration": "Mami",
         "english": "Aunt (Mother's Brother's Wife)",
         "category": "Family",
-        "firstLetter": "मा",
+        "firstLetter": "म",
         "imagePrompt": "A simple 2D line drawing of a smiling Indian woman (Mami), minimalist",
         "imagePath": "/images/family_aunt_m_wife.png",
         "frozen": false
@@ -148,7 +148,7 @@
         "transliteration": "Mavshi",
         "english": "Aunt (Mother's Sister)",
         "category": "Family",
-        "firstLetter": "मा",
+        "firstLetter": "म",
         "imagePrompt": "A simple 2D line drawing showing a Woman standing with her Sister (Mother and Mavshi relationship), minimalist",
         "imagePath": "/images/family_aunt_m_sis.png",
         "frozen": false
@@ -170,7 +170,7 @@
         "transliteration": "Paani",
         "english": "Water",
         "category": "Food",
-        "firstLetter": "पा",
+        "firstLetter": "प",
         "imagePrompt": "A simple 2D line drawing of a glass of water, minimalist",
         "imagePath": "/images/food_water.png",
         "frozen": false
@@ -181,7 +181,7 @@
         "transliteration": "Doodh",
         "english": "Milk",
         "category": "Food",
-        "firstLetter": "दू",
+        "firstLetter": "द",
         "imagePrompt": "A simple 2D line drawing of a milk glass, minimalist",
         "imagePath": "/images/food_milk.png",
         "frozen": false
@@ -192,7 +192,7 @@
         "transliteration": "Poli",
         "english": "Roti",
         "category": "Food",
-        "firstLetter": "पो",
+        "firstLetter": "प",
         "imagePrompt": "A simple 2D line drawing of a roti, minimalist",
         "imagePath": "/images/food_roti.png",
         "frozen": false
@@ -203,7 +203,7 @@
         "transliteration": "Bhaat",
         "english": "Rice",
         "category": "Food",
-        "firstLetter": "भा",
+        "firstLetter": "भ",
         "imagePrompt": "A simple 2D line drawing of a bowl of rice, minimalist",
         "imagePath": "/images/food_rice.png",
         "frozen": false
@@ -225,7 +225,7 @@
         "transliteration": "Kele",
         "english": "Banana",
         "category": "Food",
-        "firstLetter": "के",
+        "firstLetter": "क",
         "imagePrompt": "A simple 2D line drawing of a banana, minimalist",
         "imagePath": "/images/food_banana.png",
         "frozen": false
@@ -247,7 +247,7 @@
         "transliteration": "Sakhar",
         "english": "Sugar",
         "category": "Food",
-        "firstLetter": "सा",
+        "firstLetter": "स",
         "imagePrompt": "A simple 2D line drawing of sugar cubes, minimalist",
         "imagePath": "/images/food_sugar.png",
         "frozen": false
@@ -258,7 +258,7 @@
         "transliteration": "Kanda",
         "english": "Onion",
         "category": "Food",
-        "firstLetter": "का",
+        "firstLetter": "क",
         "imagePrompt": "A simple 2D line drawing of an onion, minimalist",
         "imagePath": "/images/food_onion.png",
         "frozen": false
@@ -280,7 +280,7 @@
         "transliteration": "Tomato",
         "english": "Tomato",
         "category": "Food",
-        "firstLetter": "टो",
+        "firstLetter": "ट",
         "imagePrompt": "A simple 2D line drawing of a tomato, minimalist",
         "imagePath": "/images/food_tomato.png",
         "frozen": false
@@ -291,7 +291,7 @@
         "transliteration": "Drakshe",
         "english": "Grapes",
         "category": "Food",
-        "firstLetter": "द्रा",
+        "firstLetter": "द",
         "imagePrompt": "A simple 2D line drawing of a bunch of grapes, minimalist",
         "imagePath": "/images/food_grapes.png",
         "frozen": false
@@ -302,7 +302,7 @@
         "transliteration": "Ande",
         "english": "Egg",
         "category": "Food",
-        "firstLetter": "अं",
+        "firstLetter": "अ",
         "imagePrompt": "A simple 2D line drawing of an egg, minimalist",
         "imagePath": "/images/food_egg.png",
         "frozen": false
@@ -313,7 +313,7 @@
         "transliteration": "Meeth",
         "english": "Salt",
         "category": "Food",
-        "firstLetter": "मी",
+        "firstLetter": "म",
         "imagePrompt": "A simple 2D line drawing of a salt shaker, minimalist",
         "imagePath": "/images/food_salt.png",
         "frozen": false
@@ -324,7 +324,7 @@
         "transliteration": "Manjar",
         "english": "Cat",
         "category": "Animals",
-        "firstLetter": "मं",
+        "firstLetter": "म",
         "imagePrompt": "A simple 2D line drawing of a cat, minimalist",
         "imagePath": "/images/animals_cat.png",
         "frozen": false
@@ -335,7 +335,7 @@
         "transliteration": "Kutra",
         "english": "Dog",
         "category": "Animals",
-        "firstLetter": "कु",
+        "firstLetter": "क",
         "imagePrompt": "A simple 2D line drawing of a dog, minimalist",
         "imagePath": "/images/animals_dog.png",
         "frozen": false
@@ -357,7 +357,7 @@
         "transliteration": "Wagh",
         "english": "Tiger",
         "category": "Animals",
-        "firstLetter": "वा",
+        "firstLetter": "व",
         "imagePrompt": "A simple 2D line drawing of a tiger, minimalist",
         "imagePath": "/images/animals_tiger.png",
         "frozen": false
@@ -368,7 +368,7 @@
         "transliteration": "Gaay",
         "english": "Cow",
         "category": "Animals",
-        "firstLetter": "गा",
+        "firstLetter": "ग",
         "imagePrompt": "A simple 2D line drawing of an Indian cow, minimalist",
         "imagePath": "/images/animals_cow.png",
         "frozen": false
@@ -379,7 +379,7 @@
         "transliteration": "Popat",
         "english": "Parrot",
         "category": "Animals",
-        "firstLetter": "पो",
+        "firstLetter": "प",
         "imagePrompt": "A simple 2D line drawing of a parrot, minimalist",
         "imagePath": "/images/animals_parrot.png",
         "frozen": false
@@ -390,7 +390,7 @@
         "transliteration": "Simha",
         "english": "Lion",
         "category": "Animals",
-        "firstLetter": "सिं",
+        "firstLetter": "स",
         "imagePrompt": "A simple 2D line drawing of a lion, minimalist",
         "imagePath": "/images/animals_lion.png",
         "frozen": false
@@ -412,7 +412,7 @@
         "transliteration": "Unt",
         "english": "Camel",
         "category": "Animals",
-        "firstLetter": "उं",
+        "firstLetter": "उ",
         "imagePrompt": "A simple 2D line drawing of a camel, minimalist",
         "imagePath": "/images/animals_camel.png",
         "frozen": false
@@ -423,7 +423,7 @@
         "transliteration": "Maakad",
         "english": "Monkey",
         "category": "Animals",
-        "firstLetter": "मा",
+        "firstLetter": "म",
         "imagePrompt": "A simple 2D line drawing of a monkey, minimalist",
         "imagePath": "/images/animals_monkey.png",
         "frozen": false
@@ -434,7 +434,7 @@
         "transliteration": "Ghoda",
         "english": "Horse",
         "category": "Animals",
-        "firstLetter": "घो",
+        "firstLetter": "घ",
         "imagePrompt": "A simple 2D line drawing of a horse, minimalist",
         "imagePath": "/images/animals_horse.png",
         "frozen": false
@@ -445,7 +445,7 @@
         "transliteration": "Maasa",
         "english": "Fish",
         "category": "Animals",
-        "firstLetter": "मा",
+        "firstLetter": "म",
         "imagePrompt": "A simple 2D line drawing of a fish, minimalist",
         "imagePath": "/images/animals_fish.png",
         "frozen": false
@@ -467,7 +467,7 @@
         "transliteration": "Phulpakhru",
         "english": "Butterfly",
         "category": "Animals",
-        "firstLetter": "फु",
+        "firstLetter": "फ",
         "imagePrompt": "A simple 2D line drawing of a butterfly, minimalist",
         "imagePath": "/images/animals_butterfly.png",
         "frozen": false
@@ -478,7 +478,7 @@
         "transliteration": "More",
         "english": "Peacock",
         "category": "Animals",
-        "firstLetter": "मो",
+        "firstLetter": "म",
         "imagePrompt": "A simple 2D line drawing of a peacock, minimalist",
         "imagePath": "/images/animals_peacock.png",
         "frozen": false
@@ -489,7 +489,7 @@
         "transliteration": "Jevane",
         "english": "Eating",
         "category": "Actions",
-        "firstLetter": "जे",
+        "firstLetter": "ज",
         "imagePrompt": "A simple 2D line drawing of a child eating, minimalist",
         "imagePath": "/images/actions_eating.png",
         "frozen": false
@@ -500,7 +500,7 @@
         "transliteration": "Zopane",
         "english": "Sleeping",
         "category": "Actions",
-        "firstLetter": "झो",
+        "firstLetter": "झ",
         "imagePrompt": "A simple 2D line drawing of a child sleeping, minimalist",
         "imagePath": "/images/actions_sleeping.png",
         "frozen": false
@@ -522,7 +522,7 @@
         "transliteration": "Khelne",
         "english": "Playing",
         "category": "Actions",
-        "firstLetter": "खे",
+        "firstLetter": "ख",
         "imagePrompt": "A simple 2D line drawing of children playing, minimalist",
         "imagePath": "/images/actions_playing.png",
         "frozen": false
@@ -533,7 +533,7 @@
         "transliteration": "Bolne",
         "english": "Speaking",
         "category": "Actions",
-        "firstLetter": "बो",
+        "firstLetter": "ब",
         "imagePrompt": "A simple 2D line drawing of a child speaking, minimalist",
         "imagePath": "/images/actions_speaking.png",
         "frozen": false
@@ -555,7 +555,7 @@
         "transliteration": "Vachne",
         "english": "Reading",
         "category": "Actions",
-        "firstLetter": "वा",
+        "firstLetter": "व",
         "imagePrompt": "A simple 2D line drawing of a child reading, minimalist",
         "imagePath": "/images/actions_reading.png",
         "frozen": false
@@ -566,7 +566,7 @@
         "transliteration": "Lihine",
         "english": "Writing",
         "category": "Actions",
-        "firstLetter": "लि",
+        "firstLetter": "ल",
         "imagePrompt": "A simple 2D line drawing of a child writing, minimalist",
         "imagePath": "/images/actions_writing.png",
         "frozen": false
@@ -577,7 +577,7 @@
         "transliteration": "Nachne",
         "english": "Dancing",
         "category": "Actions",
-        "firstLetter": "ना",
+        "firstLetter": "न",
         "imagePrompt": "A simple 2D line drawing of a child dancing, minimalist",
         "imagePath": "/images/actions_dancing.png",
         "frozen": false
@@ -588,7 +588,7 @@
         "transliteration": "Chalne",
         "english": "Walking",
         "category": "Actions",
-        "firstLetter": "चा",
+        "firstLetter": "च",
         "imagePrompt": "A simple 2D line drawing of a person walking, minimalist",
         "imagePath": "/images/actions_walking.png",
         "frozen": false
@@ -599,7 +599,7 @@
         "transliteration": "Pinne",
         "english": "Drinking",
         "category": "Actions",
-        "firstLetter": "पि",
+        "firstLetter": "प",
         "imagePrompt": "A simple 2D line drawing of a child drinking from a glass, minimalist",
         "imagePath": "/images/actions_drinking.png",
         "frozen": false
@@ -643,7 +643,7 @@
         "transliteration": "Anghol",
         "english": "Bathing",
         "category": "Actions",
-        "firstLetter": "अं",
+        "firstLetter": "अ",
         "imagePrompt": "A simple 2D line drawing of a child taking a bath, minimalist",
         "imagePath": "/images/actions_bathing.png",
         "frozen": false
@@ -654,7 +654,7 @@
         "transliteration": "Surya",
         "english": "Sun",
         "category": "Nature",
-        "firstLetter": "सू",
+        "firstLetter": "स",
         "imagePrompt": "A simple 2D line drawing of the sun, minimalist",
         "imagePath": "/images/nature_sun.png",
         "frozen": false
@@ -665,7 +665,7 @@
         "transliteration": "Chandra",
         "english": "Moon",
         "category": "Nature",
-        "firstLetter": "चं",
+        "firstLetter": "च",
         "imagePrompt": "A simple 2D line drawing of the moon, minimalist",
         "imagePath": "/images/nature_moon.png",
         "frozen": false
@@ -676,7 +676,7 @@
         "transliteration": "Zhaad",
         "english": "Tree",
         "category": "Nature",
-        "firstLetter": "झा",
+        "firstLetter": "झ",
         "imagePrompt": "A simple 2D line drawing of a tree, minimalist",
         "imagePath": "/images/nature_tree.png",
         "frozen": false
@@ -687,7 +687,7 @@
         "transliteration": "Phool",
         "english": "Flower",
         "category": "Nature",
-        "firstLetter": "फू",
+        "firstLetter": "फ",
         "imagePrompt": "A simple 2D line drawing of a flower, minimalist",
         "imagePath": "/images/nature_flower.png",
         "frozen": false
@@ -709,7 +709,7 @@
         "transliteration": "Paus",
         "english": "Rain",
         "category": "Nature",
-        "firstLetter": "पा",
+        "firstLetter": "प",
         "imagePrompt": "A simple 2D line drawing of rain, minimalist",
         "imagePath": "/images/nature_rain.png",
         "frozen": false
@@ -731,7 +731,7 @@
         "transliteration": "Dongar",
         "english": "Mountain",
         "category": "Nature",
-        "firstLetter": "डो",
+        "firstLetter": "ड",
         "imagePrompt": "A simple 2D line drawing of a mountain, minimalist",
         "imagePath": "/images/nature_mountain.png",
         "frozen": false
@@ -742,7 +742,7 @@
         "transliteration": "Taare",
         "english": "Stars",
         "category": "Nature",
-        "firstLetter": "ता",
+        "firstLetter": "त",
         "imagePrompt": "A simple 2D line drawing of stars, minimalist",
         "imagePath": "/images/nature_stars.png",
         "frozen": false
@@ -797,7 +797,7 @@
         "transliteration": "Paan",
         "english": "Leaf",
         "category": "Nature",
-        "firstLetter": "पा",
+        "firstLetter": "प",
         "imagePrompt": "A simple 2D line drawing of a leaf, minimalist",
         "imagePath": "/images/nature_leaf.png",
         "frozen": false
@@ -819,7 +819,7 @@
         "transliteration": "Laal",
         "english": "Red",
         "category": "Colors",
-        "firstLetter": "ला",
+        "firstLetter": "ल",
         "imagePrompt": "A simple 2D line drawing of a paint splash (labeled Red)",
         "imagePath": "/images/colors_red.png",
         "frozen": false
@@ -830,7 +830,7 @@
         "transliteration": "Nila",
         "english": "Blue",
         "category": "Colors",
-        "firstLetter": "नि",
+        "firstLetter": "न",
         "imagePrompt": "A simple 2D line drawing of a paint splash (labeled Blue)",
         "imagePath": "/images/colors_blue.png",
         "frozen": false
@@ -841,7 +841,7 @@
         "transliteration": "Pivala",
         "english": "Yellow",
         "category": "Colors",
-        "firstLetter": "पि",
+        "firstLetter": "प",
         "imagePrompt": "A simple 2D line drawing of a paint splash (labeled Yellow)",
         "imagePath": "/images/colors_yellow.png",
         "frozen": false
@@ -852,7 +852,7 @@
         "transliteration": "Hirava",
         "english": "Green",
         "category": "Colors",
-        "firstLetter": "हि",
+        "firstLetter": "ह",
         "imagePrompt": "A simple 2D line drawing of a paint splash (labeled Green)",
         "imagePath": "/images/colors_green.png",
         "frozen": false
@@ -863,7 +863,7 @@
         "transliteration": "Kala",
         "english": "Black",
         "category": "Colors",
-        "firstLetter": "का",
+        "firstLetter": "क",
         "imagePrompt": "A simple 2D line drawing of a paint splash (labeled Black)",
         "imagePath": "/images/colors_black.png",
         "frozen": false
@@ -874,7 +874,7 @@
         "transliteration": "Pandhara",
         "english": "White",
         "category": "Colors",
-        "firstLetter": "पां",
+        "firstLetter": "प",
         "imagePrompt": "A simple 2D line drawing of a paint splash (labeled White)",
         "imagePath": "/images/colors_white.png",
         "frozen": false
@@ -885,7 +885,7 @@
         "transliteration": "Naringi",
         "english": "Orange",
         "category": "Colors",
-        "firstLetter": "ना",
+        "firstLetter": "न",
         "imagePrompt": "A simple 2D line drawing of a paint splash (labeled Orange)",
         "imagePath": "/images/colors_orange.png",
         "frozen": false
@@ -896,7 +896,7 @@
         "transliteration": "Gulabi",
         "english": "Pink",
         "category": "Colors",
-        "firstLetter": "गु",
+        "firstLetter": "ग",
         "imagePrompt": "A simple 2D line drawing of a paint splash (labeled Pink)",
         "imagePath": "/images/colors_pink.png",
         "frozen": false
@@ -907,7 +907,7 @@
         "transliteration": "Jambhala",
         "english": "Purple",
         "category": "Colors",
-        "firstLetter": "जां",
+        "firstLetter": "ज",
         "imagePrompt": "A simple 2D line drawing of a paint splash (labeled Purple)",
         "imagePath": "/images/colors_purple.png",
         "frozen": false
@@ -929,7 +929,7 @@
         "transliteration": "Rakhadi",
         "english": "Grey",
         "category": "Colors",
-        "firstLetter": "रा",
+        "firstLetter": "र",
         "imagePrompt": "A simple 2D line drawing of a paint splash (labeled Grey)",
         "imagePath": "/images/colors_grey.png",
         "frozen": false
@@ -940,7 +940,7 @@
         "transliteration": "Soneri",
         "english": "Gold",
         "category": "Colors",
-        "firstLetter": "सो",
+        "firstLetter": "स",
         "imagePrompt": "A simple 2D line drawing of a paint splash (labeled Gold)",
         "imagePath": "/images/colors_gold.png",
         "frozen": false
@@ -951,7 +951,7 @@
         "transliteration": "Shunya",
         "english": "Zero",
         "category": "Numbers",
-        "firstLetter": "शू",
+        "firstLetter": "श",
         "imagePrompt": "A simple 2D line drawing of the number 0, minimalist",
         "imagePath": "/images/numbers_0.png",
         "frozen": false
@@ -973,7 +973,7 @@
         "transliteration": "Don",
         "english": "Two",
         "category": "Numbers",
-        "firstLetter": "दो",
+        "firstLetter": "द",
         "imagePrompt": "A simple 2D line drawing of the number 2, minimalist",
         "imagePath": "/images/numbers_2.png",
         "frozen": false
@@ -984,7 +984,7 @@
         "transliteration": "Teen",
         "english": "Three",
         "category": "Numbers",
-        "firstLetter": "ती",
+        "firstLetter": "त",
         "imagePrompt": "A simple 2D line drawing of the number 3, minimalist",
         "imagePath": "/images/numbers_3.png",
         "frozen": false
@@ -995,7 +995,7 @@
         "transliteration": "Char",
         "english": "Four",
         "category": "Numbers",
-        "firstLetter": "चा",
+        "firstLetter": "च",
         "imagePrompt": "A simple 2D line drawing of the number 4, minimalist",
         "imagePath": "/images/numbers_4.png",
         "frozen": false
@@ -1006,7 +1006,7 @@
         "transliteration": "Paach",
         "english": "Five",
         "category": "Numbers",
-        "firstLetter": "पा",
+        "firstLetter": "प",
         "imagePrompt": "A simple 2D line drawing of the number 5, minimalist",
         "imagePath": "/images/numbers_5.png",
         "frozen": false
@@ -1028,7 +1028,7 @@
         "transliteration": "Saat",
         "english": "Seven",
         "category": "Numbers",
-        "firstLetter": "सा",
+        "firstLetter": "स",
         "imagePrompt": "A simple 2D line drawing of the number 7, minimalist",
         "imagePath": "/images/numbers_7.png",
         "frozen": false
@@ -1072,7 +1072,7 @@
         "transliteration": "Dole",
         "english": "Eyes",
         "category": "Body Parts",
-        "firstLetter": "डो",
+        "firstLetter": "ड",
         "imagePrompt": "A simple 2D line drawing of eyes, minimalist",
         "imagePath": "/images/body_eyes.png",
         "frozen": false
@@ -1083,7 +1083,7 @@
         "transliteration": "Naak",
         "english": "Nose",
         "category": "Body Parts",
-        "firstLetter": "ना",
+        "firstLetter": "न",
         "imagePrompt": "A simple 2D line drawing of a nose, minimalist",
         "imagePath": "/images/body_nose.png",
         "frozen": false
@@ -1094,7 +1094,7 @@
         "transliteration": "Kaan",
         "english": "Ear",
         "category": "Body Parts",
-        "firstLetter": "का",
+        "firstLetter": "क",
         "imagePrompt": "A simple 2D line drawing of an ear, minimalist",
         "imagePath": "/images/body_ear.png",
         "frozen": false
@@ -1105,7 +1105,7 @@
         "transliteration": "Tond",
         "english": "Mouth",
         "category": "Body Parts",
-        "firstLetter": "तो",
+        "firstLetter": "त",
         "imagePrompt": "A simple 2D line drawing of a mouth, minimalist",
         "imagePath": "/images/body_mouth.png",
         "frozen": false
@@ -1116,7 +1116,7 @@
         "transliteration": "Haat",
         "english": "Hand",
         "category": "Body Parts",
-        "firstLetter": "हा",
+        "firstLetter": "ह",
         "imagePrompt": "A simple 2D line drawing of a hand, minimalist",
         "imagePath": "/images/body_hand.png",
         "frozen": false
@@ -1127,7 +1127,7 @@
         "transliteration": "Paay",
         "english": "Leg",
         "category": "Body Parts",
-        "firstLetter": "पा",
+        "firstLetter": "प",
         "imagePrompt": "A simple 2D line drawing of a leg/foot, minimalist",
         "imagePath": "/images/body_leg.png",
         "frozen": false
@@ -1138,7 +1138,7 @@
         "transliteration": "Kes",
         "english": "Hair",
         "category": "Body Parts",
-        "firstLetter": "के",
+        "firstLetter": "क",
         "imagePrompt": "A simple 2D line drawing of hair, minimalist",
         "imagePath": "/images/body_hair.png",
         "frozen": false
@@ -1149,7 +1149,7 @@
         "transliteration": "Jibh",
         "english": "Tongue",
         "category": "Body Parts",
-        "firstLetter": "जी",
+        "firstLetter": "ज",
         "imagePrompt": "A simple 2D line drawing of a tongue, minimalist",
         "imagePath": "/images/body_tongue.png",
         "frozen": false
@@ -1160,7 +1160,7 @@
         "transliteration": "Daant",
         "english": "Teeth",
         "category": "Body Parts",
-        "firstLetter": "दां",
+        "firstLetter": "द",
         "imagePrompt": "A simple 2D line drawing of teeth, minimalist",
         "imagePath": "/images/body_teeth.png",
         "frozen": false
@@ -1171,7 +1171,7 @@
         "transliteration": "Bote",
         "english": "Fingers",
         "category": "Body Parts",
-        "firstLetter": "बो",
+        "firstLetter": "ब",
         "imagePrompt": "A simple 2D line drawing of fingers, minimalist",
         "imagePath": "/images/body_fingers.png",
         "frozen": false
@@ -1182,7 +1182,7 @@
         "transliteration": "Pota",
         "english": "Stomach",
         "category": "Body Parts",
-        "firstLetter": "पो",
+        "firstLetter": "प",
         "imagePrompt": "A simple 2D line drawing pointing to the stomach area, minimalist",
         "imagePath": "/images/body_stomach.png",
         "frozen": false
@@ -1193,7 +1193,7 @@
         "transliteration": "Maan",
         "english": "Neck",
         "category": "Body Parts",
-        "firstLetter": "मा",
+        "firstLetter": "म",
         "imagePrompt": "A simple 2D line drawing pointing to the neck, minimalist",
         "imagePath": "/images/body_neck.png",
         "frozen": false
@@ -1204,7 +1204,7 @@
         "transliteration": "Chehara",
         "english": "Face",
         "category": "Body Parts",
-        "firstLetter": "चे",
+        "firstLetter": "च",
         "imagePrompt": "A simple 2D line drawing of a child's face, minimalist",
         "imagePath": "/images/body_face.png",
         "frozen": false
@@ -1226,7 +1226,7 @@
         "transliteration": "Chendu",
         "english": "Ball",
         "category": "Objects",
-        "firstLetter": "चें",
+        "firstLetter": "च",
         "imagePrompt": "A simple 2D line drawing of a ball, minimalist",
         "imagePath": "/images/objects_ball.png",
         "frozen": false
@@ -1237,7 +1237,7 @@
         "transliteration": "Khurchi",
         "english": "Chair",
         "category": "Objects",
-        "firstLetter": "खु",
+        "firstLetter": "ख",
         "imagePrompt": "A simple 2D line drawing of a chair, minimalist",
         "imagePath": "/images/objects_chair.png",
         "frozen": false
@@ -1248,7 +1248,7 @@
         "transliteration": "Tebal",
         "english": "Table",
         "category": "Objects",
-        "firstLetter": "टे",
+        "firstLetter": "ट",
         "imagePrompt": "A simple 2D line drawing of a table, minimalist",
         "imagePath": "/images/objects_table.png",
         "frozen": false
@@ -1259,7 +1259,7 @@
         "transliteration": "Pustak",
         "english": "Book",
         "category": "Objects",
-        "firstLetter": "पु",
+        "firstLetter": "प",
         "imagePrompt": "A simple 2D line drawing of an open book, minimalist",
         "imagePath": "/images/objects_book.png",
         "frozen": false
@@ -1270,7 +1270,7 @@
         "transliteration": "Pen",
         "english": "Pen",
         "category": "Objects",
-        "firstLetter": "पे",
+        "firstLetter": "प",
         "imagePrompt": "A simple 2D line drawing of a pen, minimalist",
         "imagePath": "/images/objects_pen.png",
         "frozen": false
@@ -1281,7 +1281,7 @@
         "transliteration": "Pishvi",
         "english": "Bag",
         "category": "Objects",
-        "firstLetter": "पि",
+        "firstLetter": "प",
         "imagePrompt": "A simple 2D line drawing of a bag, minimalist",
         "imagePath": "/images/objects_bag.png",
         "frozen": false
@@ -1325,7 +1325,7 @@
         "transliteration": "Khidki",
         "english": "Window",
         "category": "Objects",
-        "firstLetter": "खि",
+        "firstLetter": "ख",
         "imagePrompt": "A simple 2D line drawing of a window, minimalist",
         "imagePath": "/images/objects_window.png",
         "frozen": false
@@ -1358,7 +1358,7 @@
         "transliteration": "Saban",
         "english": "Soap",
         "category": "Objects",
-        "firstLetter": "सा",
+        "firstLetter": "स",
         "imagePrompt": "A simple 2D line drawing of a bar of soap, minimalist",
         "imagePath": "/images/objects_soap.png",
         "frozen": false
