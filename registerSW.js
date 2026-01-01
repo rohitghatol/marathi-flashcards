@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/marathi-flashcards/sw.js', { scope: '/marathi-flashcards/' })})}
