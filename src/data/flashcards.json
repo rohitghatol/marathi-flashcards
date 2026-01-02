@@ -962,7 +962,7 @@
         "transliteration": "Shunya",
         "english": "Zero",
         "category": "Numbers",
-        "firstLetter": "श",
+        "firstLetter": "०",
         "imagePrompt": "A simple 2D line drawing of the number 0, minimalist",
         "imagePath": "/images/numbers_0.png",
         "frozen": false
@@ -973,7 +973,7 @@
         "transliteration": "Ek",
         "english": "One",
         "category": "Numbers",
-        "firstLetter": "ए",
+        "firstLetter": "१",
         "imagePrompt": "A simple 2D line drawing of the number 1, minimalist",
         "imagePath": "/images/numbers_1.png",
         "frozen": false
@@ -984,7 +984,7 @@
         "transliteration": "Don",
         "english": "Two",
         "category": "Numbers",
-        "firstLetter": "द",
+        "firstLetter": "२",
         "imagePrompt": "A simple 2D line drawing of the number 2, minimalist",
         "imagePath": "/images/numbers_2.png",
         "frozen": false
@@ -995,7 +995,7 @@
         "transliteration": "Teen",
         "english": "Three",
         "category": "Numbers",
-        "firstLetter": "त",
+        "firstLetter": "३",
         "imagePrompt": "A simple 2D line drawing of the number 3, minimalist",
         "imagePath": "/images/numbers_3.png",
         "frozen": false
@@ -1006,7 +1006,7 @@
         "transliteration": "Char",
         "english": "Four",
         "category": "Numbers",
-        "firstLetter": "च",
+        "firstLetter": "४",
         "imagePrompt": "A simple 2D line drawing of the number 4, minimalist",
         "imagePath": "/images/numbers_4.png",
         "frozen": false
@@ -1017,7 +1017,7 @@
         "transliteration": "Paach",
         "english": "Five",
         "category": "Numbers",
-        "firstLetter": "प",
+        "firstLetter": "५",
         "imagePrompt": "A simple 2D line drawing of the number 5, minimalist",
         "imagePath": "/images/numbers_5.png",
         "frozen": false
@@ -1028,7 +1028,7 @@
         "transliteration": "Saha",
         "english": "Six",
         "category": "Numbers",
-        "firstLetter": "स",
+        "firstLetter": "६",
         "imagePrompt": "A simple 2D line drawing of the number 6, minimalist",
         "imagePath": "/images/numbers_6.png",
         "frozen": false
@@ -1039,7 +1039,7 @@
         "transliteration": "Saat",
         "english": "Seven",
         "category": "Numbers",
-        "firstLetter": "स",
+        "firstLetter": "७",
         "imagePrompt": "A simple 2D line drawing of the number 7, minimalist",
         "imagePath": "/images/numbers_7.png",
         "frozen": false
@@ -1050,7 +1050,7 @@
         "transliteration": "Aath",
         "english": "Eight",
         "category": "Numbers",
-        "firstLetter": "आ",
+        "firstLetter": "८",
         "imagePrompt": "A simple 2D line drawing of the number 8, minimalist",
         "imagePath": "/images/numbers_8.png",
         "frozen": false
@@ -1061,7 +1061,7 @@
         "transliteration": "Nau",
         "english": "Nine",
         "category": "Numbers",
-        "firstLetter": "न",
+        "firstLetter": "९",
         "imagePrompt": "A simple 2D line drawing of the number 9, minimalist",
         "imagePath": "/images/numbers_9.png",
         "frozen": false
@@ -1072,7 +1072,7 @@
         "transliteration": "Daah",
         "english": "Ten",
         "category": "Numbers",
-        "firstLetter": "द",
+        "firstLetter": "१०",
         "imagePrompt": "A simple 2D line drawing of the number 10, minimalist",
         "imagePath": "/images/numbers_10.png",
         "frozen": false
